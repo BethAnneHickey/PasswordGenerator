@@ -1,3 +1,10 @@
+Passowrd Generator that randomly selects a password based on user critera:
+8-128 characters
+Upper Case
+lower case
+Symbols
+
+
 # 03 JavaScript: Password Generator
 
 ## Your Task
